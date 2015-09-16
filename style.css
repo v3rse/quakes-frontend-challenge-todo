@@ -1,0 +1,6 @@
+body {
+  /*make backgorund respond to window size using html element since it's window width*/
+  /*url,repeat,horizontal alignment, vertical alignment,position*/
+  background: url(assets/bg.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
