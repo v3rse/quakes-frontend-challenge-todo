@@ -8,4 +8,4 @@ This is basically a challenge [@quakes](https://github.com/quakes) gave me to he
 
 The Finish line
 ------
-![Todo app interaction gif](assets/todoApp.gif)
+![Todo app interaction gif](assets/design.jpg)
