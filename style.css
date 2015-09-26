@@ -2,7 +2,7 @@ body {
   /*1.make backgorund respond to window size using html element since it's window width*/
   /*url,repeat,horizontal alignment, vertical alignment,position*/
   /*http://www.w3schools.com/css/css3_backgrounds.asp*/
-  /*2.use stacking order and gradients*/
+  /*2.used stacking order and linear gradients*/
   /*https://css-tricks.com/tinted-images-multiple-backgrounds/*/
   background:
   linear-gradient(
